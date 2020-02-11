@@ -1,0 +1,6 @@
+Open powershell
+CD to local dir where index, css, and js files are
+typed 
+1. git add .
+2. git commit --message "first commit"
+3. git push -u origin master
