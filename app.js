@@ -5,8 +5,7 @@ var my_list = document.querySelector(".list-group");
 var new_table = document.querySelector("#table_form");
 var create_table = document.createElement("table");
 var create_table_td = document.createElement("td");
-var historyname = []
-
+var historyname = []; //Object Literal
 
 
 new_table.appendChild(create_table);
