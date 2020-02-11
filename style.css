@@ -1,0 +1,24 @@
+.flex {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .container {
+    height: 90vh;
+  }
+
+  li:hover {
+    cursor: pointer;
+  }
+table{
+  width: 100%;
+  text-align: center;
+}
+  
+#td_count, #td_history {
+    text-align: center;
+    margin-left:auto; margin-right:auto;
+    border-style: groove;
+  
+}
