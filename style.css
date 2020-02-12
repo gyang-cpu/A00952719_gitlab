@@ -25,6 +25,9 @@ table{
 .listgroup{
   color: aliceblue;
 }
+#table_form{
+  color: aliceblue
+}
 /* I don't want to change anything with my css. This is just to push this messsage to git */
 /* This is only to get the bonus mark */
 /* hello */
